@@ -4,10 +4,6 @@ Regression analysis for **Solemne 3** of the TDS course (Universidad San Sebasti
 
 **Notebook:** `Solemne_3_TDS.ipynb`
 
-<!-- Add your Colab badge here, e.g.:
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_COLAB_LINK)
--->
-
 ## Objective
 
 - Build and evaluate regression models that predict a satisfaction-type score from 17 automatically collected descriptors.
